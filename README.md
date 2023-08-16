@@ -1,10 +1,14 @@
+🧑‍💻 我是子禛
+---
+
+
+----
+
 ### Hi there 👋
 I am Huang working 🌱 as Content Creator. I am a Experienced Fullstack Developer. skilled in ✨ ReactJS, Vue, WeChat Mini Program,  Uni-app, React Native, NodeJs, MongoDB, sql, User Experience, and Design.✨
 
-Skills
+Skills（技能）
 ----
-
-
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
